@@ -1,3 +1,5 @@
 
 def announce():
-    return "Hello Neww World"
+    return "Hello New World"
+    
+print("Hello New World")
