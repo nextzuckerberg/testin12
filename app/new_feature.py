@@ -1,3 +1,3 @@
 
-def announce(parameter_list):
-    return "Hello World"
+def announce():
+    return "Hello New World"
