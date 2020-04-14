@@ -2,8 +2,6 @@
 
 
 
-
-
 from app.my_script import enlarge
 
 def test_enlarge():
