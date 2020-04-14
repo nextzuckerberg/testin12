@@ -9,7 +9,7 @@ if __name__ == "__main__":
     my_number = float(input("Input a number"))
     n = enlarge(my_number)
 
-    print(n)
+    #print(n)
 
 
     
